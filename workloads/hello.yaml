@@ -20,6 +20,7 @@ spec:
   template:
     metadata:
       labels:
+        key: test
         app: docker-nodejs-demo
     spec:
       containers:
