@@ -1,4 +1,4 @@
-# clusterutilities
+# gitopsflux
 
 
 kubectl create ns flux
